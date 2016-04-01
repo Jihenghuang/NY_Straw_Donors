@@ -1,6 +1,6 @@
 This Folder is intentionally left blank, to aid faster updates, and to ensure data is fetched from the source. This will aid *reproducibility* and *fast backups*.
 
-To this end, we have written [code](../Code/DataDL.py) which can be utilized [in this way](../Code/Restful_Data_Read.ipynb).
+To this end, we have written [code](../Code/DataDL/DataDL.py) which can be utilized [in this way](../Code/DataDL/Restful_Data_Read.ipynb).
 
 The code downloads the data to this data folder.
 

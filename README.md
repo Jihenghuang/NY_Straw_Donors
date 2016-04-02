@@ -1,3 +1,3 @@
 # NY_Straw_Donors
-Matching NYC and NYS level data to identify straw donors.
- 
+
+Presentation on April 1. 2016: FindingStrawDonors.pptx
